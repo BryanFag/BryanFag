@@ -6,11 +6,11 @@ Olá, eu sou Bryan Fagundes
 
 ## Sobre Mim
 
-📚 Além de desenvolvedor, tenho experiencia com eletrônica e software embarcado. Trabalho com C++, Python, Kotlin, JavaScript e React. Habilidades avançadas na construção de scripts Python para visualização de dados CAN. Conhecedor de bancos de dados PostgreSQL, configurando e gerenciando conexões.
+📚 Sou formado em Técnico em Eletrônica, com um forte conhecimento em hardware e uma paixão por software. Tenho experiência em software embarcado e no uso do protocolo CAN. Estou sempre em busca de aprender e aplicar novas tecnologias, combinando minha expertise em hardware com o desenvolvimento de soluções eficientes e inovadoras.
 
 ## 🛠️ Minhas Stacks
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
   
 ## Estatísticas
 
@@ -20,4 +20,4 @@ Olá, eu sou Bryan Fagundes
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-blue)](https://www.linkedin.com/in/SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-blue)](https://www.linkedin.com/in/bryan-machado-fagundes-1b66231b2/)
