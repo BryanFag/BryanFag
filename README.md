@@ -2,7 +2,7 @@
 
 Olá, eu sou Bryan Fagundes
 
-👨‍💻 Hoje trabalho como assistente de engenharia e moro no Rio Grande do Sul, Brasil. Tenho 23 anos e uma paixão por tecnologia e desenvolvimento de software.
+👨‍💻 Hoje trabalho como Engenheiro de software e moro no Rio Grande do Sul, Brasil. Tenho 23 anos e uma paixão por tecnologia e desenvolvimento de software.
 
 ## Sobre Mim
 
