@@ -6,7 +6,23 @@ Olá, eu sou Bryan Fagundes
 
 ## Sobre Mim
 
-📚 Sou formado em Técnico em Eletrônica, com um forte conhecimento em hardware e uma paixão por software. Tenho experiência em software embarcado e no uso do protocolo CAN. Estou sempre em busca de aprender e aplicar novas tecnologias, combinando minha expertise em hardware com o desenvolvimento de soluções eficientes e inovadoras.
+Desenvolvedor de Software | Mobile & Fullstack | +5 anos de experiência
+
+Sou um profissional proativo com mais de 5 anos de experiência em desenvolvimento de software, sempre focado em aprendizado contínuo e na aplicação prática de boas práticas de engenharia. Busco escrever código limpo, sustentável e escalável, seguindo princípios como SOLID e Clean Architecture.
+
+Atualmente, atuo como Desenvolvedor Mobile na Creare Sistemas, entregando soluções com foco em performance, qualidade e colaboração em equipe.
+
+Projetos e experiências incluem:
+
+ERP completo para franquias
+
+Ambientes web integrados
+
+Aplicativo para gerenciamento de mensagens
+
+Sistema de apontamentos de tarefas
+
+Aplicativo com rotas e mapas
 
 ## 🛠️ Minhas Stacks
 
